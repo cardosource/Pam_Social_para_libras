@@ -7,6 +7,8 @@ Esse modelo é direcionado a aprendizagem da linguagem de sinais aos portadores 
 Esse projeto utiliza recursos de inteligencia artificial especializada para reconhecer a mão.     
 ConvNet ( Rede Neural Convoluciona) é um código de aprendizado profundo capaz de captar  imagem de entrada e atribuir importâncias a pesos e vieses a vários aspectos e objetos da imagem e ser capaz de diferenciar.
 
+Arquitetura VGGNet
+
  <img src="https://www12.senado.leg.br/noticias/especiais/especial-cidadania/baixo-alcance-da-lingua-de-sinais-leva-surdos-ao-isolamento/imagem_3_09/@@images/imagem" width="600"/>
  
  fonte [senado.leg.br](https://www12.senado.leg.br/noticias/especiais/especial-cidadania/baixo-alcance-da-lingua-de-sinais-leva-surdos-ao-isolamento)   
