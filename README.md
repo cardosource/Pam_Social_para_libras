@@ -1,13 +1,9 @@
 # Pam Social -  Libras
 <strong>Pam </strong>Social - É um projeto com  finalidade de  assistir a compreender  de forma descomplicada a comunicação entre  indivíduos.                          
-Esse modelo é direcionado a portadores de deficiência auditiva e também surdez.
+Esse modelo é direcionado a aprendizagem da linguagem de sinais aos portadores de deficiência auditiva e também surdez.
 
 
-Observando as pesquisas:
-
-
-
- <img src="https://www12.senado.leg.br/noticias/especiais/especial-cidadania/baixo-alcance-da-lingua-de-sinais-leva-surdos-ao-isolamento/imagem_3_09/@@images/imagem" width="1210"/>
+ <img src="https://www12.senado.leg.br/noticias/especiais/especial-cidadania/baixo-alcance-da-lingua-de-sinais-leva-surdos-ao-isolamento/imagem_3_09/@@images/imagem" width="600"/>
  
  fonte [senado.leg.br](https://www12.senado.leg.br/noticias/especiais/especial-cidadania/baixo-alcance-da-lingua-de-sinais-leva-surdos-ao-isolamento)   
  
