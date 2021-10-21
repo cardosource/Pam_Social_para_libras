@@ -9,6 +9,15 @@ ConvNet ( Rede Neural Convoluciona) é um código de aprendizado profundo capaz 
 
 Arquitetura VGGNet
 
+ <img src="https://neurohive.io/wp-content/uploads/2018/11/vgg16-1-e1542731207177.png" width="600"/>
+ 
+ > VGG é um modelo de rede neural convolucional proposto por K. Simonyan e A. Zisserman da Universidade de Oxford no artigo ["Redes convolucionais muito profundas para reconhecimento de imagem em larga escala"r](https://arxiv.org/abs/1409.1556)    . O modelo atinge 92,7% dos 5 primeiros testes de precisão no ImageNet  , que é um conjunto de dados de mais de 14 milhões de imagens pertencentes a 1000 classes.
+ > 
+ > Foi implementado neste projeto o VGG16 com os pesos do modelo Caffe
+ > > O Caffe oferece suporte a muitos tipos diferentes de arquiteturas de aprendizado profundo voltadas para a classificação e segmentação de imagens . Ele suporta CNN , RCNN, LSTM e designs de rede neural totalmente conectados.
+
+ 
+ 
  <img src="https://www12.senado.leg.br/noticias/especiais/especial-cidadania/baixo-alcance-da-lingua-de-sinais-leva-surdos-ao-isolamento/imagem_3_09/@@images/imagem" width="600"/>
  
  fonte [senado.leg.br](https://www12.senado.leg.br/noticias/especiais/especial-cidadania/baixo-alcance-da-lingua-de-sinais-leva-surdos-ao-isolamento)   
