@@ -1,11 +1,11 @@
 # Pam Social -  Libras
-<strong>Pam </strong>Social - É um projeto com  finalidade de  assistir a compreender  de forma descomplicada a comunicação entre  indivíduos.                          
-Esse modelo é direcionado a aprendizagem da linguagem de sinais aos portadores de deficiência auditiva e também surdez.
+<strong>Pam </strong>Social - É um projeto com base em  assistir a compreender  de forma descomplicada linguagem de sinais                          
+Esse modelo é direcionado a ensinar  linguagem de sinais aos não  portadores de deficiência auditiva e  surdez.
 
 ## Redes Neurais Convolucionais
 
-Esse projeto utiliza recursos de inteligencia artificial especializada para reconhecer a mão.     
-ConvNet ( Rede Neural Convoluciona) é um código de aprendizado profundo capaz de captar  imagem de entrada e atribuir importâncias a pesos e vieses a vários aspectos e objetos da imagem e ser capaz de diferenciar.
+Esse projeto utiliza recursos de inteligencia artificial especializada para reconhecemento de mão.     
+Rede Neural Convoluciona é um código de aprendizado profundo capaz de captar imagem de entrada e atribuir importâncias a pesos e vieses a vários aspectos e objetos da imagem e ser capaz de diferenciar.
 
 Arquitetura VGGNet
 
