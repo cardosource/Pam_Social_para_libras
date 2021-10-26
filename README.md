@@ -17,7 +17,8 @@ Arquitetura VGGNet
  > > O Caffe oferece suporte a muitos tipos diferentes de arquiteturas de aprendizado profundo voltadas para a classificação e segmentação de imagens . Ele suporta CNN , RCNN, LSTM e designs de rede neural totalmente conectados.
 
  
- 
+## Deficiencia auditiva e  Surdez
+
  <img src="https://www12.senado.leg.br/noticias/especiais/especial-cidadania/baixo-alcance-da-lingua-de-sinais-leva-surdos-ao-isolamento/imagem_3_09/@@images/imagem" width="600"/>
  
  fonte [senado.leg.br](https://www12.senado.leg.br/noticias/especiais/especial-cidadania/baixo-alcance-da-lingua-de-sinais-leva-surdos-ao-isolamento)   
