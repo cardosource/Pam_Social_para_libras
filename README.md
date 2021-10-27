@@ -1,14 +1,14 @@
 # Pam Social -  Libras
 <strong>Pam </strong>Social - É um projeto com base em  assistir a compreender  de forma descomplicada linguagem de sinais                          
-Esse modelo é direcionado a ensinar  linguagem de sinais aos não  portadores de deficiência auditiva e  surdez tendo como base de ensino o alfabeto
+Esse protótipo é direcionado a ensinar  linguagem de sinais aos não  portadores de deficiência auditiva e surdez tendo como eixo o ensino do alfabeto 
 
 
 <div>
-    <img src="1 width="200"/>
+    <img src="https://raw.githubusercontent.com/git-cardoso/Pam_Social_para_libras/main/exemplos/Captura%20de%20tela_2021-10-26_23-07-09.png" width="300"/>
   
- <img src="2" width="202" />
+ <img src="https://raw.githubusercontent.com/git-cardoso/Pam_Social_para_libras/main/exemplos/Captura%20de%20tela_2021-10-26_23-11-35.png" width="262" />
   
-   <img src="3" width="198" />
+   <img src="https://raw.githubusercontent.com/git-cardoso/Pam_Social_para_libras/main/exemplos/Captura%20de%20tela_2021-10-26_23-13-38.png" width="380" />
 </div>
 
 
