@@ -1,6 +1,16 @@
 # Pam Social -  Libras
 <strong>Pam </strong>Social - É um projeto com base em  assistir a compreender  de forma descomplicada linguagem de sinais                          
-Esse modelo é direcionado a ensinar  linguagem de sinais aos não  portadores de deficiência auditiva e  surdez tendo como base de ensino as vogais
+Esse modelo é direcionado a ensinar  linguagem de sinais aos não  portadores de deficiência auditiva e  surdez tendo como base de ensino o alfabeto
+
+
+<div>
+    <img src="1 width="200"/>
+  
+ <img src="2" width="202" />
+  
+   <img src="3" width="198" />
+</div>
+
 
 ## Redes Neurais Convolucionais
 
