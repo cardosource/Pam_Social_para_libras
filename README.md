@@ -8,7 +8,7 @@ Esse protótipo é direcionado a ensinar  linguagem de sinais aos não  portador
   
  <img src="https://raw.githubusercontent.com/git-cardoso/Pam_Social_para_libras/main/exemplos/Captura%20de%20tela_2021-10-26_23-11-35.png" width="262" />
   
-   <img src="https://raw.githubusercontent.com/git-cardoso/Pam_Social_para_libras/main/exemplos/Captura%20de%20tela_2021-10-26_23-13-38.png" width="376" />
+   <img src="https://raw.githubusercontent.com/git-cardoso/Pam_Social_para_libras/main/exemplos/Captura%20de%20tela_2021-10-26_23-13-38.png" width="374" />
 </div>
 
 
