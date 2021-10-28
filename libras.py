@@ -6,19 +6,12 @@ import extrator_POSICAO as posicao
 import extrator_ALTURA as altura
 import extrator_PROXIMIDADE as proximidade
 
-from concurrent.futures.process import ProcessPoolExecutor as Process
-
-
 
 class Libras(metaclass=ABCMeta):
-
-
 
     @abstractclassmethod
     def processamento(self):
         pass
-
-
 
 class RedeNeural(Libras):
     def __init__(self, imagem,proto,peso) -> None:
