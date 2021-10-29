@@ -64,5 +64,5 @@ Mista: é composta por linguagem verbal e não-verbal, como as histórias em qua
 
    <img src="https://www.libras.com.br/images/artigos/alfabeto-manual/alfabeto-manual.png" width="250"/>
  
- ![GitHub](https://img.shields.io/badge/python-3.9-blue)
+ ![GitHub](https://img.shields.io/badge/python-3.9-blue) ![GitHub](https://img.shields.io/badge/licence-MIT-GREE) 
  
