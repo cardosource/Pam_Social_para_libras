@@ -1,7 +1,7 @@
 # Pam Social -  Libras
 <strong>Pam </strong>Social - É um projeto com base em  assistir a compreender  de forma descomplicada linguagem de sinais                          
 Esse protótipo é direcionado a ensinar  linguagem de sinais aos não  portadores de deficiência auditiva e surdez tendo como eixo o ensino do alfabeto.
-O próprio é manejado pelo padrão de desenvolvemento <strong>Simple Factory</strong>  cria  objetos independentes utilizando o mesmo recurso.
+O próprio é manejado pelo padrão de desenvolvemento [<strong>Simple Factory</strong>](https://github.com/git-cardoso/designPatterns_factory)   cria  objetos independentes utilizando o mesmo recurso.
 
 
 <div>
