@@ -20,7 +20,7 @@ Rede Neural Convoluciona é um código de aprendizado profundo capaz de captar i
 
 Arquitetura VGGNet
 
- <img src="https://neurohive.io/wp-content/uploads/2018/11/vgg16-1-e1542731207177.png" width="600"/>
+ <img src="https://www.researchgate.net/profile/Timea-Bezdan/publication/333242381/figure/fig2/AS:760979981860866@1558443174380/VGGNet-architecture-19.ppm" width="600"/>
  
  > VGG é um modelo de rede neural convolucional proposto por K. Simonyan e A. Zisserman da Universidade de Oxford no artigo ["Redes convolucionais muito profundas para reconhecimento de imagem em larga escala"r](https://arxiv.org/abs/1409.1556)    . O modelo atinge 92,7% dos 5 primeiros testes de precisão no ImageNet  , que é um conjunto de dados de mais de 14 milhões de imagens pertencentes a 1000 classes.
  > 
